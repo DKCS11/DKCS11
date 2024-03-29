@@ -1,4 +1,4 @@
-<h1>Howdy, I'm Deepesh! <br/><a href="https://github.com/DKCS11">Programmer</a>, <a href="https://www.linkedin.com/in//deepesh-khati-0937a72ba//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Equity Trader </a></h1>
+<h1>Howdy, I'm Deepesh! <br/><a href="https://github.com/DKCS11">Programmer</a>, <a href="https://www.linkedin.com/in//deepesh-khati-0937a72ba//">Cybersecurity Professional</a>, <a href="https://www.tradingview.com">Equity Trader </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
