@@ -14,6 +14,7 @@
   - [Keylogger with Email Capability]
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - [Quantitative Trading ](https://github.com/DKCS11/QTA_Script_-SMA-50-200-)
 <h2>📜 Certifications </h2>
 
  -  <b>   [Google CyberSecurity](https://www.coursera.org/account/accomplishments/professional-cert/C4QJZNNU4NBW)</b>
